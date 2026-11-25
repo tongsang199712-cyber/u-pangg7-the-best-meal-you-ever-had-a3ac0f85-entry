@@ -1,0 +1,22 @@
+Build task — make.fun bounty "The Best Meal You Ever Had"
+==============================================================
+
+Bounty slug:  u-pangg7-the-best-meal-you-ever-had-a3ac0f85
+Title:        The Best Meal You Ever Had
+Prize:        $2 USDC
+Deadline:     2026-11-27T11:50:00Z
+First blind round cutoff: 2026-11-26T03:47:48Z
+
+Task: write exactly ONE sentence, at most 200 characters, about the best
+meal you ever had. The program (main.ts) writes that sentence to
+/output/entry.txt with no trailing newline.
+
+Judge criteria (from the kit rules): reward a concrete named dish, a place,
+a texture, a smell, one specific moment, a true personal memory, fresh
+wording (no cliches), and a memorable ending image.
+
+Direction chosen: a grandmother's clay-pot rice memory — crisp scorched
+crust, steam, rain on a tin roof, a chipped wooden table, her ladling the
+crust onto your bowl first.
+
+Gate: the sentence must be 1-200 characters, a single line, non-whitespace.
